@@ -1,5 +1,5 @@
 %md
-# NYC BoroTaxi End-To-End Analytics & AI Insights Platform
+# NYC BoroTaxi End-To-End Analytics & AI Insights Dashboard
 Dec 2025 – Jan 2026
 
 ---
